@@ -68,11 +68,23 @@ xam파일 수정시 baseAuto는 새로 생성되며, 만약 개발자가 BaseAut
 >![[Pasted image 20220817100130.png]]
 
 3. 분기 (if구문)
+	if구문은 decision 버튼을 이용해 구현 가능
 
 
+4. Loop 구문
+	dataset loop button
+	event 추가
+	
+
+5. usermethod
+6. errorcode / errorMessge ![[Pasted image 20220817101550.png]]
+Dfingo는 exception이나 error가 음수인 경우, 롤백을 자동수행
+
+7. Session Object
+- UserSession은 HTTPSettion 객체를 wreapping하고 있다.
+- invalidate()를 통해 session 객체 파기 가능
+
+![[Pasted image 20220817101821.png]]
 
 
-
-
-
-
+** x-up생성한 Autmation Model의 url을 가져와서 nexacro에서 dataset으로 사용가능하다. 
