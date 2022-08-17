@@ -41,7 +41,13 @@ xam파일 수정시 baseAuto는 새로 생성되며, 만약 개발자가 BaseAut
 ![[Pasted image 20220817094446.png]]
 ![[Pasted image 20220817094606.png]]
 ![[Pasted image 20220817094618.png]]
-
+---
+## Automation Model
+1. 단일유형
+	1. start와 end 사이에 하나의 invoke가 놓여지는 형태
+2. 복합유형
+	1. start와 end 사이에 2개 이상의 인보커가 놓여지는 형태
+3. 
 
 
 
