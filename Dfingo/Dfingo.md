@@ -46,6 +46,7 @@ xam파일 수정시 baseAuto는 새로 생성되며, 만약 개발자가 BaseAut
 1. 단일유형
 	1. start와 end 사이에 하나의 invoke가 놓여지는 형태
 	2. Select Invoke
+	
 ![[Pasted image 20220817095506.png]]
 
 2. 복합유형
@@ -54,13 +55,20 @@ xam파일 수정시 baseAuto는 새로 생성되며, 만약 개발자가 BaseAut
 	3. DB 테이블을 조회
 	4. Select Invokef
 	5. 라인을 연결
+	
 ![[Pasted image 20220817095446.png]]
 
-Example 2 )
-첫번째 호출의 결과를 두번째 호출의 입력으로 사용하는 모델 
-![[Pasted image 20220817095606.png]]
-1. DB Sequence 값 가져오기 
-2. Select 결과는 dataset으로
+> Example 2 )
+첫번째 호출의 결과를 두번째 호출의 입력으로 사용하는 모델 ![[Pasted image 20220817100102.png]]
+>1. DB Sequence 값 가져오기 
+>2. Select 결과는 dataset 형태로 반환 -> variable로 변환
+>3. D to V는 dataSet을 variable list로 변환
+>4. Modify invoke 배치
+>5. seq 컬럼 값으로 nextval을 설정
+>![[Pasted image 20220817100130.png]]
+
+3. 분기 (if구문)
+
 
 
 
