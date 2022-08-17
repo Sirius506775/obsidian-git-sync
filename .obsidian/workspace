@@ -82,7 +82,7 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "commit",
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,10 +125,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "74465aea9341e735",
+  "active": "b8b5027ac6eb6138",
   "lastOpenFiles": [
     "React-study/Learning React/Chapter2.md",
     "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter3. Object.md",
