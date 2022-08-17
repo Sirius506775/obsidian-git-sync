@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter3. Object.md",
+            "file": "Dfingo/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -77,12 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter3. Object.md",
+                "file": "Dfingo/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "c",
+                "searchQuery": "commit",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter3. Object.md",
+                "file": "Dfingo/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter3. Object.md"
+                "file": "Dfingo/Untitled.md"
               }
             }
           }
@@ -127,11 +127,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b8b5027ac6eb6138",
+  "active": "469fa58111b76df2",
   "lastOpenFiles": [
+    "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter3. Object.md",
     "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter2. Call-Site(함수 호출부).md",
     "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter1. This에 대한 오해.md",
-    "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter3. Object.md",
     "Learning React/08.14(Sun)/image/Pasted image 20220814194322.png",
     "Learning React/Chapter2.md",
     "Learning React/08.14(Sun)/image/Pasted image 20220814195009.png",
