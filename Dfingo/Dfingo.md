@@ -35,8 +35,17 @@ AutomationModel
 
 ![[Pasted image 20220817094041.png]]
 최초 모델 생성 시 xam과 java파일 2개가 생성
-xam은 flow차트 기반의 업무구현을 수행, 자동생성되는 코드는 base오토메이션로직에 자동 생성된다.
+xam은 flow차트 기반의 업무구현을 수행, 자동생성되는 코드는 BaseAutoMationLogic 자동 생성된다.
 
-자바 코딩을 수행할 수 있는 영역 -> 
+xam파일 수정시 baseAuto는 새로 생성되며, 만약 개발자가 BaseAutoMationLogic에 자바 코딩을 하면 사라지게 된다. 
+![[Pasted image 20220817094446.png]]
+![[Pasted image 20220817094606.png]]
+![[Pasted image 20220817094618.png]]
+
+
+
+
+
+
 
 
