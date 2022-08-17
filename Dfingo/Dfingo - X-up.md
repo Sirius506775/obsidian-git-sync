@@ -89,4 +89,3 @@ Dfingo는 exception이나 error가 음수인 경우, 롤백을 자동수행
 
 ** x-up생성한 Autmation Model의 url을 가져와서 nexacro에서 dataset으로 사용가능하다. 
 
-aa

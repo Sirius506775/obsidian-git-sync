@@ -1,22 +1,30 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "tag:YouDontKnowJS",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 1.48205128205128,
+  "lineSizeMultiplier": 2.27777777777778,
+  "collapse-forces": false,
+  "centerStrength": 0.512820512820513,
+  "repelStrength": 8.88888888888889,
+  "linkStrength": 0.623931623931624,
+  "linkDistance": 287,
   "scale": 1,
-  "close": false
+  "close": true
 }
