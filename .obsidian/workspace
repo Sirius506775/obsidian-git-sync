@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/Variable.md",
+            "file": "Dfingo/Dfingo - X-up.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Variable.md",
+                "file": "Dfingo/Dfingo - X-up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Variable.md",
+                "file": "Dfingo/Dfingo - X-up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Variable.md"
+                "file": "Dfingo/Dfingo - X-up.md"
               }
             }
           }
@@ -125,19 +125,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "b8b5027ac6eb6138",
+  "active": "74465aea9341e735",
   "lastOpenFiles": [
+    "JavaScript/Expression&Statement.md",
+    "JavaScript/DataType.md",
+    "JavaScript/Variable.md",
+    "Dfingo/Dfingo - X-up.md",
     "React-study/Learning React/Chapter2.md",
     "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter3. Object.md",
-    "Dfingo/Dfingo - X-up.md",
     "React-study/Udemy ReactJS/React day2(08.17).md",
     "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter1. This에 대한 오해.md",
     "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter2. Call-Site(함수 호출부).md",
-    "JavaScript/Variable.md",
-    "React-study/Udemy ReactJS/React day1(08.14).md",
-    "Dfingo/image/Pasted image 20220817100102.png",
-    "Dfingo/image/Pasted image 20220817101821.png"
+    "React-study/Udemy ReactJS/React day1(08.14).md"
   ]
 }
