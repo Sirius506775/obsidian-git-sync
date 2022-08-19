@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Funtional Programming/Pure Function 순수 함수(current..).md",
-            "mode": "source",
+            "file": "Article translate/(번역) 로컬스토리지를 쉽게 사용하게 만들어주는 라이브러리.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funtional Programming/Pure Function 순수 함수(current..).md",
+                "file": "Article translate/(번역) 로컬스토리지를 쉽게 사용하게 만들어주는 라이브러리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Funtional Programming/Pure Function 순수 함수(current..).md",
+                "file": "Article translate/(번역) 로컬스토리지를 쉽게 사용하게 만들어주는 라이브러리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Funtional Programming/Pure Function 순수 함수(current..).md"
+                "file": "Article translate/(번역) 로컬스토리지를 쉽게 사용하게 만들어주는 라이브러리.md"
               }
             }
           }
@@ -130,11 +130,11 @@
   },
   "active": "74465aea9341e735",
   "lastOpenFiles": [
+    "Funtional Programming/Immutability 불변성 (current..).md",
+    "Funtional Programming/Pure Function 순수 함수(current..).md",
     "JavaScript/DataType.md",
     "JavaScript/Const & let.md",
-    "Funtional Programming/Pure Function 순수 함수(current..).md",
     "Funtional Programming/JavaScript is multi-paradigm language..md",
-    "Funtional Programming/Immutability 불변성 (current..).md",
     "Funtional Programming/함수형 프로그래밍 패러다임의 좋은 코딩 습관.md",
     "JQuery/getPresentTime.md",
     "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter3. Object(current..).md",
