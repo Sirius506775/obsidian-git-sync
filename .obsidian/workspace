@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e911e08ab911dc07",
@@ -131,15 +130,15 @@
   },
   "active": "74465aea9341e735",
   "lastOpenFiles": [
-    "JQuery/JPlayer test url.md",
+    "JQuery/JPlayer Events.md",
+    "JQuery/JPlayer 시간 제어.md",
     "JQuery/getPresentTime.md",
+    "JQuery/JPlayer test url.md",
     "Dfingo/Dfingo - X-up.md",
     "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter2. Call-Site(함수 호출부).md",
     "React-study/Udemy ReactJS/React day2(08.17).md",
     "JavaScript/DataType.md",
     "JavaScript/Expression&Statement.md",
-    "JavaScript/Variable.md",
-    "React-study/Learning React/Chapter2.md",
-    "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter3. Object.md"
+    "JavaScript/Variable.md"
   ]
 }
