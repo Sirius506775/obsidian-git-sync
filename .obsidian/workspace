@@ -7,12 +7,8 @@
         "id": "74465aea9341e735",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "React-study/Learning React/Chapter 4. How React Work (08.20).md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e911e08ab911dc07",
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React-study/Learning React/Chapter 4. How React Work (08.20).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React-study/Learning React/Chapter 4. How React Work (08.20).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React-study/Learning React/Chapter 4. How React Work (08.20).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -131,15 +122,15 @@
   },
   "active": "74465aea9341e735",
   "lastOpenFiles": [
+    "Funtional Programming/Pure Function 순수 함수(current..).md",
+    "Pasted image 20220820123512.png",
     "React-study/Udemy ReactJS/React day2(08.20).md",
-    "React-study/Udemy ReactJS/React day1(08.14).md",
+    "React-study/Udemy ReactJS/day3(08.21).md",
     "React-study/Learning React/Chapter 4. How React Work (08.20).md",
+    "React-study/Udemy ReactJS/React day1(08.14).md",
     "React-study/Learning React/08.14 React.md",
     "React-study/Learning React/Chapter2.md",
     "Article translate/(번역) 로컬스토리지를 쉽게 사용하게 만들어주는 라이브러리.md",
-    "Funtional Programming/Immutability 불변성 (current..).md",
-    "Funtional Programming/Pure Function 순수 함수(current..).md",
-    "JavaScript/DataType.md",
-    "JavaScript/Const & let.md"
+    "Funtional Programming/Immutability 불변성 (current..).md"
   ]
 }
