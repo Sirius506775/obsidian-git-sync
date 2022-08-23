@@ -1,0 +1,58 @@
+### Components
+
+Reusabiliity building block
+
+각각의 컴포넌트를 구축하고 리액트에게 최종 UI에서 어떻게 구성할 것인지 명령
+
+Main Topic => Reusabiliity + Separation of Concerns
+
+![[Pasted image 20220820123512.png]]
+
+##### How is a Component Built
+- React allows you to create re-useable and reactive components consisting of HTML and JavaScript(and CSS)
+- React uses somthing which is call a Declarative Approach for building components
+
+```js
+const para = document.createElement('p')
+
+  para.textContent = 'This is also visible!'
+
+  document.getElementById('root').append(para)
+```
+
+=>
+
+```js
+function App() {
+
+  
+
+  return (
+
+    <div>
+
+      <h2>Let's get started!</h2>
+
+      <p>This is also visible!</p>
+
+    </div>
+
+  );
+
+}
+
+export default App;
+```
+
+![[Pasted image 20220820130958.png]]
+
+App.js is Root components.
+
+
+다른 컴포넌트에서 일부 컴포넌트를 가지고 JSX의 결과값에 직접 접근할 수 없고, 저장된 데이터를 보낼 수 없다.
+
+때문에 props를 이용한다.
+
+속성을 추가해서 커스텀 컴포넌트에 데이터를 전달할 수 있다., 
+![[Pasted image 20220823161209.png]]
+
