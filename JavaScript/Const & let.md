@@ -1,3 +1,5 @@
+#모던자바스크립트다이브 
+
 let 변수는 어떤 값을 참조하다가 다시 다른 값의 주소를 참조하는 재할당 가능
 
 but , const는 re-declaration과 re-assignment가 불가능

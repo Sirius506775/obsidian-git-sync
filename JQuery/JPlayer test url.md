@@ -34,4 +34,5 @@ let urlList = [{
 }];
 ```
 
+#JQuery
 
