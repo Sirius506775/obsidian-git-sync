@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "74465aea9341e735",
+        "id": "fd56ca1f34f28a57",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "74465aea9341e735",
+  "active": "fd56ca1f34f28a57",
   "lastOpenFiles": [
-    "React-study/Udemy ReactJS/day4(08.24).md",
-    "JQuery/JPlayer test url.md",
-    "JQuery/JPlayer Events.md",
-    "JQuery/JPlayer 시간 제어.md",
-    "JQuery/getPresentTime.md",
-    "JavaScript/전역 변수의 문제점.md",
-    "Funtional Programming/Pure Function 순수 함수(current..).md",
-    "Funtional Programming/JavaScript is multi-paradigm language..md",
-    "Funtional Programming/Immutability 불변성 (current..).md",
-    "Funtional Programming/함수형 프로그래밍 패러다임의 좋은 코딩 습관.md"
+    "React-study/Udemy ReactJS/image/Pasted image 20220825172222.png",
+    "React-study/Udemy ReactJS/image/Pasted image 20220825171803.png",
+    "React-study/Udemy ReactJS/image/Pasted image 20220825170938.png",
+    "React-study/Udemy ReactJS/day5(08.25).md",
+    "React-study/React에서의 input 태그 사용법.md",
+    "React-study/React의 State.md",
+    "React-study/React 구조 디자인 매뉴얼.md",
+    "React-study/Udemy ReactJS/day2(08.20).md",
+    "React-study/Learning React/Chapter 4. How React Work (08.20).md",
+    "React-study/Learning React/08.14 React.md"
   ]
 }
