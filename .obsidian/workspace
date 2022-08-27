@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fd56ca1f34f28a57",
+        "id": "74465aea9341e735",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React-study/Udemy ReactJS/day5(08.25).md",
+            "file": "React-study/Udemy ReactJS/day6(08.27).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#모던자바스크립트다이브",
+                "query": "commit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React-study/Udemy ReactJS/day5(08.25).md",
+                "file": "React-study/Udemy ReactJS/day6(08.27).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React-study/Udemy ReactJS/day5(08.25).md",
+                "file": "React-study/Udemy ReactJS/day6(08.27).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React-study/Udemy ReactJS/day5(08.25).md"
+                "file": "React-study/Udemy ReactJS/day6(08.27).md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd56ca1f34f28a57",
+  "active": "74465aea9341e735",
   "lastOpenFiles": [
-    "React-study/Udemy ReactJS/image/Pasted image 20220825172222.png",
-    "React-study/Udemy ReactJS/image/Pasted image 20220825171803.png",
-    "React-study/Udemy ReactJS/image/Pasted image 20220825170938.png",
-    "React-study/Udemy ReactJS/day5(08.25).md",
-    "React-study/React에서의 input 태그 사용법.md",
+    "Hugo + GithubPage.md",
+    "React-study/Udemy ReactJS/day6(08.27).md",
+    "React-study/Udemy ReactJS/day5(08.25 ~ 08.26).md",
     "React-study/React의 State.md",
-    "React-study/React 구조 디자인 매뉴얼.md",
-    "React-study/Udemy ReactJS/day2(08.20).md",
-    "React-study/Learning React/Chapter 4. How React Work (08.20).md",
-    "React-study/Learning React/08.14 React.md"
+    "React-study/Udemy ReactJS/day4(08.24).md",
+    "Funtional Programming/Pure Function 순수 함수(current..).md",
+    "Pasted image 20220820123512.png",
+    "React-study/Udemy ReactJS/React day2(08.20).md",
+    "React-study/Udemy ReactJS/day3(08.21).md",
+    "React-study/Learning React/Chapter 4. How React Work (08.20).md"
   ]
 }
