@@ -91,6 +91,8 @@ In Oracle, place a restriction on the number of rows returned by restricting ROW
 
 >**오라클에서 사용하는 rownum이라는 함수는 반환되는 각 행에 대해 숫자를 반환한다는 점이 다른 sql과 다르다. (1에서 증가하는 증갓값이다.)
 
+오라클에서 ROWNUM과 함께 동등조건을 사용하는 것은 좋지 않다. 
+
 
 ##### SQL Server 
 Use the TOP keyword to restrict the number of rows returned
@@ -100,7 +102,51 @@ Use the TOP keyword to restrict the number of rows returned
 ```
 ---
 
+### 1.10 Returning n Random Records from a Table
+
+테이블에서 무작위로 n개의 레코드를 반환하려면 order by 절과 내장함수를 같이 사용한다. 
+
+
+##### MySQL 
+Use the built-in RAND function in conjunction with LIMIT and ORDER BY
+```sql
+1 select ename,job
+2   from emp 
+3 order by rand() limit 5
+```
+
+
+
+### 2.4 Sorting Mixed Alphanumeric Data
+혼합 영숫자 데이터 정렬하기
 
 ```sql
-
+create view V 
+as 
+	select ename||' '||deptno as data 
+	from emp 
+	
+select * from V
 ```
+위 quey문의 결과는 다음과 같다. 
+
+```sql
+DATA 
+------------- 
+SMITH 20 
+ALLEN 30 
+WARD 30 
+JONES 20 
+MARTIN 30
+BLAKE 30 
+CLARK 10 
+SCOTT 20 
+KING 10 
+TURNER 30 
+ADAMS 20 
+JAMES 30 
+FORD 20 
+MILLER 10
+```
+
+Replace 와 TRANSLATE 함수를 사용해서 

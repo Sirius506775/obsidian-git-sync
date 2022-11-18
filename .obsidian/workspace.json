@@ -18,8 +18,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f7d7a5a4866f3e5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
+            "id": "3a2eecf82a55af9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Loop statement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5283f35ca4581a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Section 1. Intro to Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "state",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Cookbook/Chapter 1. Retrieving Records.md",
+                "file": "Git/Section 1. Intro to Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +143,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Cookbook/Chapter 1. Retrieving Records.md"
+                "file": "Git/Section 1. Intro to Git.md"
+              }
+            }
+          },
+          {
+            "id": "7e702a387ed474cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/Section 1. Intro to Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -120,20 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "c6478ba1b0aa9ef6",
+  "active": "5283f35ca4581a61",
   "lastOpenFiles": [
-    "SQL Cookbook/Chapter 2. Sorting Query Results.md",
-    "SQL Cookbook/Chapter 1. Retrieving Records.md",
-    "React-study/Udemy ReactJS/day7(08.31).md",
-    "React-study/Udemy ReactJS/day6(08.27).md",
-    "React-study/React 구조 디자인 매뉴얼.md",
-    "React-study/Udemy ReactJS/day5(08.25 ~ 08.26).md",
-    "React-study/Learning React/08.14 React.md",
     "JavaScript/Loop statement.md",
+    "JavaScript/DataType.md",
+    "JavaScript/Variable.md",
+    "JavaScript/Scope.md",
     "JavaScript/Operator.md",
-    "JavaScript/Expression&Statement.md"
+    "SQL Cookbook/Chapter 1. Retrieving Records.md",
+    "Hugo + GithubPage.md",
+    "CS/Untitled.md",
+    "SQL Cookbook/Chapter 2. Sorting Query Results.md",
+    "2022-11-05.md"
   ]
 }
