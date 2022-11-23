@@ -47,14 +47,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Section 1. Intro to Git.md",
+                "file": "Clean Code JavaScript/To use variable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecc87a950ad1d216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "develope Gatsby Blog/Getting started with Gatsby.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e911e08ab911dc07",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Section 1. Intro to Git.md",
+                "file": "develope Gatsby Blog/Getting started with Gatsby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Section 1. Intro to Git.md"
+                "file": "develope Gatsby Blog/Getting started with Gatsby.md"
               }
             }
           },
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Section 1. Intro to Git.md",
+                "file": "develope Gatsby Blog/Getting started with Gatsby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,17 +184,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5283f35ca4581a61",
+  "active": "ecc87a950ad1d216",
   "lastOpenFiles": [
+    "Clean Code JavaScript/To use variable.md",
+    "CS/Untitled.md",
+    "Article translate/(번역) 로컬스토리지를 쉽게 사용하게 만들어주는 라이브러리.md",
+    "JavaScript/전역 변수의 문제점.md",
+    "Git/Section 1. Intro to Git.md",
     "JavaScript/Loop statement.md",
     "JavaScript/DataType.md",
     "JavaScript/Variable.md",
     "JavaScript/Scope.md",
-    "JavaScript/Operator.md",
-    "SQL Cookbook/Chapter 1. Retrieving Records.md",
-    "Hugo + GithubPage.md",
-    "CS/Untitled.md",
-    "SQL Cookbook/Chapter 2. Sorting Query Results.md",
-    "2022-11-05.md"
+    "JavaScript/Operator.md"
   ]
 }
