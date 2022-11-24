@@ -97,3 +97,49 @@ deploy가 완료되었다면
 
 5. 지정된 git path 접속 시 배포된 페이지를 확인할 수 있다. 
 ![[Pasted image 20221123203557.png]]
+
+
+---
+```shell
+  git add *
+```
+
+```shell
+  git commit -m '[commit message]' *
+```
+
+```shell
+  git push origin main
+```
+
+```shell
+  npm run deploy
+```
+
+```shell
+  
+Pages
+
+┌ src/templates/blog-post.js
+│ ├   /hello-world/
+│ └   ...3 more pages available
+├ src/pages/404.js
+│ ├   /404/
+│ └   /404.html
+├ src/pages/index.js
+│ └   /
+└ src/pages/using-typescript.tsx
+  └   /using-typescript/
+
+  ╭────────────────────────────────────────────────────────────────╮
+  │                                                                │
+  │   (SSG) Generated at build time                                │
+  │ D (DSG) Deferred static generation - page generated at runtime │
+  │ ∞ (SSR) Server-side renders at runtime (uses getServerData)    │
+  │ λ (Function) Gatsby function                                   │
+  │                                                                │
+  ╰────────────────────────────────────────────────────────────────╯
+
+Published
+
+```
