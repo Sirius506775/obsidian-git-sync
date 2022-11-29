@@ -8,65 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49323930c512f600",
+            "id": "72e20def8eaa5cc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Cookbook/Chapter 1. Retrieving Records.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f7d7a5a4866f3e5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
-          },
-          {
-            "id": "3a2eecf82a55af9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Loop statement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5283f35ca4581a61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clean Code JavaScript/To use variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecc87a950ad1d216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "develope Gatsby Blog/Getting started with Gatsby.md",
+                "file": "React Error/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e911e08ab911dc07",
@@ -132,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develope Gatsby Blog/Getting started with Gatsby.md",
+                "file": "React Error/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develope Gatsby Blog/Getting started with Gatsby.md"
+                "file": "React Error/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md"
               }
             }
           },
@@ -165,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develope Gatsby Blog/Getting started with Gatsby.md",
+                "file": "React Error/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ecc87a950ad1d216",
+  "active": "72e20def8eaa5cc9",
   "lastOpenFiles": [
     "Clean Code JavaScript/To use variable.md",
+    "SQL Cookbook/Chapter 1. Retrieving Records.md",
+    "JavaScript/Loop statement.md",
+    "React Error/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
+    "sql 문제.md",
+    "develope Gatsby Blog/Getting started with Gatsby.md",
     "CS/Untitled.md",
     "Article translate/(번역) 로컬스토리지를 쉽게 사용하게 만들어주는 라이브러리.md",
     "JavaScript/전역 변수의 문제점.md",
-    "Git/Section 1. Intro to Git.md",
-    "JavaScript/Loop statement.md",
-    "JavaScript/DataType.md",
-    "JavaScript/Variable.md",
-    "JavaScript/Scope.md",
-    "JavaScript/Operator.md"
+    "Git/Section 1. Intro to Git.md"
   ]
 }
