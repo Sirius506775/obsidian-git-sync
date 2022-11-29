@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Error/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
+                "file": "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e6c564e6dbcd137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Error/sql/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e911e08ab911dc07",
@@ -86,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Error/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
+                "file": "Error/sql/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Error/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md"
+                "file": "Error/sql/Untitled.md"
               }
             }
           },
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Error/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
+                "file": "Error/sql/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,12 +149,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72e20def8eaa5cc9",
+  "active": "0e6c564e6dbcd137",
   "lastOpenFiles": [
+    "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
     "Clean Code JavaScript/To use variable.md",
     "SQL Cookbook/Chapter 1. Retrieving Records.md",
     "JavaScript/Loop statement.md",
-    "React Error/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
     "sql 문제.md",
     "develope Gatsby Blog/Getting started with Gatsby.md",
     "CS/Untitled.md",

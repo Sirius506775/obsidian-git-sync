@@ -1,0 +1,22 @@
+
+
+```sql
+오류 보고 -
+ORA-01950: 테이블스페이스 'USERS'에 대한 권한이 없습니다.
+ORA-06512:  3행
+01950. 00000 -  "no privileges on tablespace '%s'"
+*Cause:    User does not have privileges to allocate an extent in the
+           specified tablespace.
+*Action:   Grant the user the appropriate system privileges or grant the user
+           space resource on the tablespace.
+```
+
+테이블에 더미데이터를 생성 중 아래와 같이 에러가 발생했다.
+
+![[Pasted image 20221129135743.png]]
+
+권한을 주기 위해 커널에서 사용자 권한을 수정한다. 
+
+```sql
+ ALTER USER c##user123 DEFAULT TABLESPACE USERS QUOTA UNLIMITED ON USERS;
+```
