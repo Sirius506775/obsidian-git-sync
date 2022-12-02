@@ -13,37 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
+                "file": "Error/spring/서버에서 cors 설정.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0b8d0db8ebbd1325",
+            "id": "25c9345aaa3e8dcf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "390fa76508899ce3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "74d3220ad93f4590",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20221123202535.png"
+              }
+            }
+          },
+          {
+            "id": "0d4df24a0a466e65",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20221123203557.png"
+              }
+            }
+          },
+          {
+            "id": "2292849d2ebae86f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error/sql/ORA-01950.md",
+                "file": "memo/1202.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f0d0931025a31268",
+            "id": "ab1465702cfa8c3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error/sql/ORA-01400.md",
+                "file": "SQL 문제 만들기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -93,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e911e08ab911dc07",
@@ -109,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
+                "file": "SQL 문제 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md"
+                "file": "SQL 문제 만들기.md"
               }
             }
           },
@@ -142,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
+                "file": "SQL 문제 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,17 +198,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72e20def8eaa5cc9",
+  "active": "ab1465702cfa8c3b",
   "lastOpenFiles": [
     "Error/sql/ORA-01950.md",
-    "Error/sql/ORA-01400.md",
-    "Error/Spring.md",
-    "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
+    "SQL 문제 만들기.md",
+    "memo/1202.md",
+    "Pasted image 20221123203557.png",
     "Clean Code JavaScript/To use variable.md",
-    "Article translate/(번역) 로컬스토리지를 쉽게 사용하게 만들어주는 라이브러리.md",
-    "JQuery/JPlayer 시간 제어.md",
-    "SQL Cookbook/Chapter 1. Retrieving Records.md",
-    "JavaScript/Loop statement.md",
-    "sql 문제.md"
+    "CS/Untitled.md",
+    "Git/Section 1. Intro to Git.md",
+    "Pasted image 20221123203210.png",
+    "Pasted image 20221123202535.png",
+    "Pasted image 20221123202532.png"
   ]
 }
