@@ -14,3 +14,8 @@ node 업그레이드 했을 때 보통 발생한다..
 ```shell
 npm audit fix --force
 ```
+
+++ <base href=“URL
+
+		<base> 태그의 href 속성은 페이지 내의 모든 상대 주소(relative URL)들의 기본 URL을 명시합니다.
+<base href=“URL”>

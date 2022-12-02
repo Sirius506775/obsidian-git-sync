@@ -20,19 +20,30 @@
             }
           },
           {
-            "id": "0e6c564e6dbcd137",
+            "id": "0b8d0db8ebbd1325",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error/sql/Untitled.md",
+                "file": "Error/sql/ORA-01950.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0d0931025a31268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Error/sql/ORA-01400.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Error/sql/Untitled.md",
+                "file": "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Error/sql/Untitled.md"
+                "file": "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md"
               }
             }
           },
@@ -131,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Error/sql/Untitled.md",
+                "file": "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +160,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0e6c564e6dbcd137",
+  "active": "72e20def8eaa5cc9",
   "lastOpenFiles": [
+    "Error/sql/ORA-01950.md",
+    "Error/sql/ORA-01400.md",
+    "Error/Spring.md",
     "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
     "Clean Code JavaScript/To use variable.md",
+    "Article translate/(번역) 로컬스토리지를 쉽게 사용하게 만들어주는 라이브러리.md",
+    "JQuery/JPlayer 시간 제어.md",
     "SQL Cookbook/Chapter 1. Retrieving Records.md",
     "JavaScript/Loop statement.md",
-    "sql 문제.md",
-    "develope Gatsby Blog/Getting started with Gatsby.md",
-    "CS/Untitled.md",
-    "Article translate/(번역) 로컬스토리지를 쉽게 사용하게 만들어주는 라이브러리.md",
-    "JavaScript/전역 변수의 문제점.md",
-    "Git/Section 1. Intro to Git.md"
+    "sql 문제.md"
   ]
 }
