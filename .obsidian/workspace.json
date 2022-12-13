@@ -20,22 +20,6 @@
             }
           },
           {
-            "id": "25c9345aaa3e8dcf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "390fa76508899ce3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "74d3220ad93f4590",
             "type": "leaf",
             "state": {
@@ -68,19 +52,31 @@
             }
           },
           {
+            "id": "c65c163f2aff3b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL Cookbook/Chapter 6. Working with Strings!!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ab1465702cfa8c3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL 문제 만들기.md",
+                "file": "Funtional Programming/Pure Function 순수 함수(current..).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e911e08ab911dc07",
@@ -147,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL 문제 만들기.md",
+                "file": "SQL Cookbook/Chapter 6. Working with Strings!!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL 문제 만들기.md"
+                "file": "SQL Cookbook/Chapter 6. Working with Strings!!.md"
               }
             }
           },
@@ -180,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL 문제 만들기.md",
+                "file": "SQL Cookbook/Chapter 6. Working with Strings!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ab1465702cfa8c3b",
+  "active": "c65c163f2aff3b87",
   "lastOpenFiles": [
-    "Error/sql/ORA-01950.md",
-    "SQL 문제 만들기.md",
+    "SQL Cookbook/Chapter 1. Retrieving Records.md",
+    "memo/1213.md",
     "memo/1202.md",
-    "Pasted image 20221123203557.png",
-    "Clean Code JavaScript/To use variable.md",
-    "CS/Untitled.md",
-    "Git/Section 1. Intro to Git.md",
-    "Pasted image 20221123203210.png",
-    "Pasted image 20221123202535.png",
-    "Pasted image 20221123202532.png"
+    "Error/sql/ORA-01400.md",
+    "Error/sql/ORA-01950.md",
+    "Funtional Programming/Pure Function 순수 함수(current..).md",
+    "JavaScript/전역 변수의 문제점.md",
+    "JavaScript/Scope.md",
+    "JavaScript/Loop statement.md",
+    "JavaScript/DataType.md"
   ]
 }
