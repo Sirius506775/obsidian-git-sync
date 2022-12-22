@@ -11,11 +11,28 @@
             "id": "eedb5fc72b52db79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "725569a7faabcd7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Error/React/digital envelope routines' 에러 시 해결 방법(Node.js 버전 관리).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Error/React/digital envelope routines' 에러 시 해결 방법(Node.js 버전 관리).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Error/React/digital envelope routines' 에러 시 해결 방법(Node.js 버전 관리).md"
+              }
             }
           },
           {
@@ -111,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Error/React/digital envelope routines' 에러 시 해결 방법(Node.js 버전 관리).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eedb5fc72b52db79",
+  "active": "725569a7faabcd7a",
   "lastOpenFiles": [
+    "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
+    "React-study/Udemy ReactJS/day6(08.27).md",
+    "React-study/Udemy ReactJS/day5(08.25 ~ 08.26).md",
     "React-study/Udemy ReactJS/day4(08.24).md",
-    "SQL Cookbook/image/Pasted image 20221126140726.png",
-    "SQL Cookbook/sql 문제.md",
+    "React-study/Udemy ReactJS/day2(08.20).md",
+    "React-study/Udemy ReactJS/day1(08.14).md",
+    "SQL Cookbook/Chapter 1. Retrieving Records.md",
     "SQL Cookbook/SQL 문제 만들기.md",
-    "SQL Cookbook/image/Pasted image 20221219133938.png",
-    "SQL Cookbook/image/Pasted image 20221219133935.png",
-    "SQL Cookbook/image/Pasted image 20221214003553.png",
-    "SQL Cookbook/image/Pasted image 20221214003456.png",
-    "SQL Cookbook/image/Pasted image 20221214003433.png",
-    "SQL Cookbook/image/Pasted image 20221214003349.png"
+    "readme.md",
+    "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter1. This에 대한 오해.md"
   ]
 }
