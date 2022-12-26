@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error/React/digital envelope routines' 에러 시 해결 방법(Node.js 버전 관리).md",
+                "file": "JavaScript/Expression&Statement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb8394988af5eb49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "memo/1226.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Error/React/digital envelope routines' 에러 시 해결 방법(Node.js 버전 관리).md",
+                "file": "memo/1226.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Error/React/digital envelope routines' 에러 시 해결 방법(Node.js 버전 관리).md"
+                "file": "memo/1226.md"
               }
             }
           },
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Error/React/digital envelope routines' 에러 시 해결 방법(Node.js 버전 관리).md",
+                "file": "memo/1226.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "725569a7faabcd7a",
+  "active": "bb8394988af5eb49",
   "lastOpenFiles": [
-    "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
+    "JavaScript/Expression&Statement.md",
+    "React-study/Learning React/08.14 React.md",
+    "React-study/Learning React/Chapter 4. How React Work (08.20).md",
+    "React-study/Learning React/Chapter2.md",
+    "React-study/Udemy ReactJS/day7(08.31).md",
+    "React-study/React의 UseState.md",
+    "React-study/React에서의 inpaut 태그 사용법.md",
+    "React-study/React 구조 디자인 매뉴얼.md",
     "React-study/Udemy ReactJS/day6(08.27).md",
-    "React-study/Udemy ReactJS/day5(08.25 ~ 08.26).md",
-    "React-study/Udemy ReactJS/day4(08.24).md",
-    "React-study/Udemy ReactJS/day2(08.20).md",
-    "React-study/Udemy ReactJS/day1(08.14).md",
-    "SQL Cookbook/Chapter 1. Retrieving Records.md",
-    "SQL Cookbook/SQL 문제 만들기.md",
-    "readme.md",
-    "YouDon'tKnowJS/Part1. This & Object Prototype/Chapter1. This에 대한 오해.md"
+    "Error/React/digital envelope routines' 에러 시 해결 방법(Node.js 버전 관리).md"
   ]
 }
