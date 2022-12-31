@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2751e4669b6582db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mookbucks/Misson2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb82b9c5cae81ad1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mookbucks/index.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mookbucks/Misson2.md",
+                "file": "mookbucks/index.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mookbucks/Misson2.md"
+                "file": "mookbucks/index.js.md"
               }
             }
           },
@@ -155,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mookbucks/Misson2.md",
+                "file": "mookbucks/index.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,8 +207,9 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "2ebd3fc521feb171",
+  "active": "eb82b9c5cae81ad1",
   "lastOpenFiles": [
+    "mookbucks/Misson2.md",
     "mookbucks/Mission1.md",
     "Error/React/digital envelope routines' 에러 시 해결 방법(Node.js 버전 관리).md",
     "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
@@ -193,7 +218,6 @@
     "React-study/Udemy ReactJS/day4(08.24).md",
     "React-study/Udemy ReactJS/day2(08.20).md",
     "React-study/Udemy ReactJS/day1(08.14).md",
-    "SQL Cookbook/Chapter 1. Retrieving Records.md",
-    "SQL Cookbook/SQL 문제 만들기.md"
+    "SQL Cookbook/Chapter 1. Retrieving Records.md"
   ]
 }
