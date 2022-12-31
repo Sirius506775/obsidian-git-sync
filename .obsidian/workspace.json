@@ -25,49 +25,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error/React/digital envelope routines' 에러 시 해결 방법(Node.js 버전 관리).md",
+                "file": "JavaScript/Expression&Statement.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eaefddf19f6aeedb",
+            "id": "bb8394988af5eb49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mookbucks/Mission1.md",
+                "file": "memo/1226.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2ebd3fc521feb171",
+            "id": "a1005e49a2cb6396",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
+            "id": "75600f43ab308068",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mookbucks/Misson2.md",
+                "file": "code_sample/FileUpload.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "2751e4669b6582db",
+=======
+            "id": "1d9562213df7c6b5",
+>>>>>>> 31e779ac1822f83696ad5cdf5d6eddf5e0c4728e
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "mookbucks/Misson2.md",
+=======
+                "file": "SQL Cookbook/Chapter 6. Working with Strings!!.md",
+>>>>>>> 31e779ac1822f83696ad5cdf5d6eddf5e0c4728e
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "eb82b9c5cae81ad1",
             "type": "leaf",
             "state": {
@@ -81,6 +100,17 @@
           }
         ],
         "currentTab": 5
+=======
+            "id": "220aa90793e43c05",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+>>>>>>> 31e779ac1822f83696ad5cdf5d6eddf5e0c4728e
       }
     ],
     "direction": "vertical"
@@ -146,7 +176,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "mookbucks/index.js.md",
+=======
+>>>>>>> 31e779ac1822f83696ad5cdf5d6eddf5e0c4728e
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +201,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {
                 "file": "mookbucks/index.js.md"
               }
+=======
+              "state": {}
+>>>>>>> 31e779ac1822f83696ad5cdf5d6eddf5e0c4728e
             }
           },
           {
@@ -179,7 +216,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "mookbucks/index.js.md",
+=======
+>>>>>>> 31e779ac1822f83696ad5cdf5d6eddf5e0c4728e
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,14 +239,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "canvas:Create new canvas": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "eb82b9c5cae81ad1",
   "lastOpenFiles": [
     "mookbucks/Misson2.md",
@@ -219,5 +260,19 @@
     "React-study/Udemy ReactJS/day2(08.20).md",
     "React-study/Udemy ReactJS/day1(08.14).md",
     "SQL Cookbook/Chapter 1. Retrieving Records.md"
+=======
+  "active": "49ba83f34773a38b",
+  "lastOpenFiles": [
+    "SQL Cookbook/Chapter 6. Working with Strings!!.md",
+    "SQL Cookbook/SQL 문제 만들기.md",
+    "SQL Cookbook/sql 문제.md",
+    "conflict-files-obsidian-git.md",
+    "code_sample/FileUpload.md",
+    "JavaScript/Expression&Statement.md",
+    "React-study/Learning React/08.14 React.md",
+    "React-study/Learning React/Chapter 4. How React Work (08.20).md",
+    "React-study/Learning React/Chapter2.md",
+    "React-study/Udemy ReactJS/day7(08.31).md"
+>>>>>>> 31e779ac1822f83696ad5cdf5d6eddf5e0c4728e
   ]
 }
