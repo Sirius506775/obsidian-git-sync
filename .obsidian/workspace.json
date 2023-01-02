@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eedb5fc72b52db79",
+            "id": "14df97979a99d783",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,75 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "725569a7faabcd7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Expression&Statement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb8394988af5eb49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "memo/1226.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1005e49a2cb6396",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
-            "id": "75600f43ab308068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code_sample/FileUpload.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d9562213df7c6b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL Cookbook/Chapter 6. Working with Strings!!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "220aa90793e43c05",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md"
+              }
             }
           },
           {
@@ -182,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49ba83f34773a38b",
+  "active": "14df97979a99d783",
   "lastOpenFiles": [
+    "Error/image/Pasted image 20221129135743.png",
+    "33-js-concepts/1. call stack.md",
+    "Error/React/Untitled.md",
     "SQL Cookbook/Chapter 6. Working with Strings!!.md",
-    "SQL Cookbook/SQL 문제 만들기.md",
-    "SQL Cookbook/sql 문제.md",
-    "conflict-files-obsidian-git.md",
-    "code_sample/FileUpload.md",
-    "JavaScript/Expression&Statement.md",
     "React-study/Learning React/08.14 React.md",
-    "React-study/Learning React/Chapter 4. How React Work (08.20).md",
-    "React-study/Learning React/Chapter2.md",
-    "React-study/Udemy ReactJS/day7(08.31).md"
+    "code_sample/FileUpload.md",
+    "memo/1226.md",
+    "JavaScript/Expression&Statement.md",
+    "Error/React/ERR_OSSL_EVP_UNSUPPORTED 에러 해결방법.md",
+    "SQL Cookbook/SQL 문제 만들기.md"
   ]
 }
