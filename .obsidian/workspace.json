@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "33-js-concepts/1. call stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "33-js-concepts/1. call stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "33-js-concepts/1. call stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "33-js-concepts/1. call stack.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "fd56ca1f34f28a57",
   "lastOpenFiles": [
-    "BOJ vscode 환경 설정.md",
-    "React-study/Udemy ReactJS/day1(08.14).md",
+    "Clean Code JavaScript/To use variable.md",
+    "React-study/Learning React/Chapter 4. How React Work (08.20).md",
+    "33-js-concepts/1. call stack.md",
+    "JavaScript/전역 변수의 문제점.md",
+    "JavaScript/Const & let.md",
+    "JavaScript/DataType.md",
+    "JavaScript/Expression&Statement.md",
+    "JavaScript/Loop statement.md",
     "readme.md",
-    "React-study/Udemy ReactJS/day2(08.20).md",
-    "React-study/Udemy ReactJS/day4(08.24).md",
-    "React-study/Udemy ReactJS/day5(08.25 ~ 08.26).md",
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20230102155908.png",
-    "React-study/Learning React/08.14 React.md",
-    "React-study/Learning React/Chapter 4. How React Work (08.20).md"
+    "BOJ vscode 환경 설정.md"
   ]
 }
