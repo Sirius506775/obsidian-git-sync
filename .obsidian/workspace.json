@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "2d26abf7bccdc1bb",
+        "id": "cc6db7a225bf4df0",
         "type": "tabs",
         "children": [
           {
-            "id": "d1d5cab22667333e",
+            "id": "fd56ca1f34f28a57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOJ readme.md",
+                "file": "React-study/Udemy ReactJS/day4(08.24).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "662652092d78df84",
+            "id": "2a3c03123ed92547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error/error posting menual.md",
+                "file": "BOJ readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Error/error posting menual.md",
+                "file": "BOJ readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Error/error posting menual.md",
+                "file": "BOJ readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Error/error posting menual.md"
+                "file": "BOJ readme.md"
               }
             }
           }
@@ -159,17 +159,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "662652092d78df84",
+  "active": "2a3c03123ed92547",
   "lastOpenFiles": [
-    "BOJ readme.md",
-    "React-study/Learning React/Chapter2.md",
-    "React-study/Learning React/Chapter 4. How React Work (08.20).md",
-    "React-study/Learning React/08.14 React.md",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20230102155908.png",
+    "readme.md",
     "React-study/Udemy ReactJS/day4(08.24).md",
     "React-study/Udemy ReactJS/day2(08.20).md",
     "React-study/Udemy ReactJS/day1(08.14).md",
-    "Clean Code JavaScript/To use variable.md",
-    "React-study/Udemy ReactJS/day7(08.31).md",
-    "React-study/React의 State.md"
+    "React-study/Learning React/08.14 React.md",
+    "React-study/Learning React/Chapter 4. How React Work (08.20).md",
+    "React-study/Learning React/Chapter2.md",
+    "Clean Code JavaScript/To use variable.md"
   ]
 }
