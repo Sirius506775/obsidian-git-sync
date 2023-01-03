@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd56ca1f34f28a57",
+            "id": "5c3b5887d438f10c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "33-js-concepts/1. call stack.md",
+                "file": "spring/Connection Pool( feat. HikariCP test).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e911e08ab911dc07",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "33-js-concepts/1. call stack.md",
+                "file": "spring/Connection Pool( feat. HikariCP test).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "33-js-concepts/1. call stack.md",
+                "file": "spring/Connection Pool( feat. HikariCP test).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "33-js-concepts/1. call stack.md"
+                "file": "spring/Connection Pool( feat. HikariCP test).md"
               }
             }
           }
@@ -146,17 +147,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fd56ca1f34f28a57",
+  "active": "5c3b5887d438f10c",
   "lastOpenFiles": [
+    "33-js-concepts/1. call stack.md",
+    "spring/Connection Pool( feat. HikariCP test).md",
     "Clean Code JavaScript/To use variable.md",
     "React-study/Learning React/Chapter 4. How React Work (08.20).md",
-    "33-js-concepts/1. call stack.md",
     "JavaScript/전역 변수의 문제점.md",
     "JavaScript/Const & let.md",
     "JavaScript/DataType.md",
     "JavaScript/Expression&Statement.md",
     "JavaScript/Loop statement.md",
-    "readme.md",
-    "BOJ vscode 환경 설정.md"
+    "readme.md"
   ]
 }
