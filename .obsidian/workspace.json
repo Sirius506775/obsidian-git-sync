@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React-study/Udemy ReactJS/day4(08.24).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a3c03123ed92547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BOJ readme.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BOJ readme.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BOJ readme.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BOJ readme.md"
+                "file": "readme.md"
               }
             }
           }
@@ -159,17 +146,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2a3c03123ed92547",
+  "active": "fd56ca1f34f28a57",
   "lastOpenFiles": [
+    "BOJ vscode 환경 설정.md",
+    "React-study/Udemy ReactJS/day1(08.14).md",
+    "readme.md",
+    "React-study/Udemy ReactJS/day2(08.20).md",
+    "React-study/Udemy ReactJS/day4(08.24).md",
+    "React-study/Udemy ReactJS/day5(08.25 ~ 08.26).md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20230102155908.png",
-    "readme.md",
-    "React-study/Udemy ReactJS/day4(08.24).md",
-    "React-study/Udemy ReactJS/day2(08.20).md",
-    "React-study/Udemy ReactJS/day1(08.14).md",
     "React-study/Learning React/08.14 React.md",
-    "React-study/Learning React/Chapter 4. How React Work (08.20).md",
-    "React-study/Learning React/Chapter2.md",
-    "Clean Code JavaScript/To use variable.md"
+    "React-study/Learning React/Chapter 4. How React Work (08.20).md"
   ]
 }
