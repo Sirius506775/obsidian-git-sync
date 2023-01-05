@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d198274d0ca050f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Axois vs Fetch API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e911e08ab911dc07",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring/Spring 환경 세팅.md",
+                "file": "JavaScript/Axois vs Fetch API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spring/Spring 환경 세팅.md",
+                "file": "JavaScript/Axois vs Fetch API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spring/Spring 환경 세팅.md"
+                "file": "JavaScript/Axois vs Fetch API.md"
               }
             }
           }
@@ -159,8 +172,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2ce3a4029d65f472",
+  "active": "7d198274d0ca050f",
   "lastOpenFiles": [
+    "spring/Spring 환경 세팅.md",
+    "JavaScript/Axois vs Fetch API.md",
     "spring/A) board_prac v.1.md",
     "spring/Connection Pool( feat. HikariCP test).md",
     "develope Gatsby Blog/Getting started with Gatsby.md",
@@ -168,8 +183,6 @@
     "Pasted image 20230103170933.png",
     "Pasted image 20230103172414.png",
     "Pasted image 20230103172351.png",
-    "Pasted image 20230103131256.png",
-    "Pasted image 20230102155908.png",
-    "33-js-concepts/1. call stack.md"
+    "Pasted image 20230103131256.png"
   ]
 }
