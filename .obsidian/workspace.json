@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cc6db7a225bf4df0",
+        "id": "2f0091bf06cbe32e",
         "type": "tabs",
         "children": [
           {
-            "id": "708b261df62062d0",
+            "id": "a53428bd59b99241",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring/A) board_prac v.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ce3a4029d65f472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spring/Spring 환경 세팅.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d198274d0ca050f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Axois vs Fetch API.md",
+                "file": "Error/MySQL 언어 설정.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Axois vs Fetch API.md",
+                "file": "Error/MySQL 언어 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Axois vs Fetch API.md",
+                "file": "Error/MySQL 언어 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Axois vs Fetch API.md"
+                "file": "Error/MySQL 언어 설정.md"
               }
             }
           }
@@ -172,17 +147,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7d198274d0ca050f",
+  "active": "a53428bd59b99241",
   "lastOpenFiles": [
-    "spring/Spring 환경 세팅.md",
-    "JavaScript/Axois vs Fetch API.md",
-    "spring/A) board_prac v.1.md",
-    "spring/Connection Pool( feat. HikariCP test).md",
     "develope Gatsby Blog/Getting started with Gatsby.md",
-    "Pasted image 20230103165220.png",
-    "Pasted image 20230103170933.png",
-    "Pasted image 20230103172414.png",
-    "Pasted image 20230103172351.png",
-    "Pasted image 20230103131256.png"
+    "spring/A) board_prac v.1.md",
+    "spring/Spring 환경 세팅.md",
+    "spring/Connection Pool/Pasted image 20230103165220.png",
+    "spring/Connection Pool/Connection Pool( feat. HikariCP test).md",
+    "spring/Connection Pool/Pasted image 20230103172414.png",
+    "spring/Connection Pool/Pasted image 20230103172351.png",
+    "spring/Connection Pool/Pasted image 20230103170933.png",
+    "33-js-concepts/Pasted image 20230103131256.png",
+    "33-js-concepts/Pasted image 20230102155908.png"
   ]
 }
