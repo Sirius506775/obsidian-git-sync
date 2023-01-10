@@ -4,22 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "2f0091bf06cbe32e",
+        "id": "5423d95be17ec281",
         "type": "tabs",
         "children": [
           {
-            "id": "a53428bd59b99241",
+            "id": "aa469ea52805ff9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error/MySQL 언어 설정.md",
+                "file": "idea/데이트 장소 기록 플랫폼.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "743f5c9a758e7fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MERN/Sample API EndPoints.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e45bdd03dafd73f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MERN/Sample API EndPoints.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a21cb6d860e3881b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MERN/Tip.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66743e59d15a3c1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MERN/React 코드 구조화.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf6a94e09556d721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MERN/React Components.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -69,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e911e08ab911dc07",
@@ -86,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Error/MySQL 언어 설정.md",
+                "file": "MERN/React Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Error/MySQL 언어 설정.md",
+                "file": "MERN/React Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Error/MySQL 언어 설정.md"
+                "file": "MERN/React Components.md"
               }
             }
           }
@@ -147,17 +207,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a53428bd59b99241",
+  "active": "bf6a94e09556d721",
   "lastOpenFiles": [
-    "develope Gatsby Blog/Getting started with Gatsby.md",
-    "spring/A) board_prac v.1.md",
-    "spring/Spring 환경 세팅.md",
-    "spring/Connection Pool/Pasted image 20230103165220.png",
-    "spring/Connection Pool/Connection Pool( feat. HikariCP test).md",
-    "spring/Connection Pool/Pasted image 20230103172414.png",
-    "spring/Connection Pool/Pasted image 20230103172351.png",
-    "spring/Connection Pool/Pasted image 20230103170933.png",
-    "33-js-concepts/Pasted image 20230103131256.png",
-    "33-js-concepts/Pasted image 20230102155908.png"
+    "MERN/Tip.md",
+    "MERN/React Components.md",
+    "MERN/React 코드 구조화.md",
+    "MERN/Sample API EndPoints.md",
+    "MERN/Planning Steps.md",
+    "idea/데이트 장소 기록 플랫폼.md",
+    "MERN/images/Pasted image 20230110134417.png",
+    "React-study/React의 UseState.md",
+    "React-study/React에서의 inpaut 태그 사용법.md",
+    "SQL Cookbook/Chapter 1. Retrieving Records.md"
   ]
 }
