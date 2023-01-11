@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5423d95be17ec281",
+        "id": "eab88ab3b0b3b17d",
         "type": "tabs",
         "children": [
           {
-            "id": "aa469ea52805ff9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/데이트 장소 기록 플랫폼.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "743f5c9a758e7fb1",
+            "id": "e28eb76fdcc21b3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "MERN/Sample API EndPoints.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e45bdd03dafd73f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MERN/Sample API EndPoints.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a21cb6d860e3881b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MERN/Tip.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66743e59d15a3c1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MERN/React 코드 구조화.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf6a94e09556d721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MERN/React Components.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MERN/React Components.md",
+                "file": "MERN/Sample API EndPoints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MERN/React Components.md",
+                "file": "MERN/Sample API EndPoints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MERN/React Components.md"
+                "file": "MERN/Sample API EndPoints.md"
               }
             }
           }
@@ -207,14 +146,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bf6a94e09556d721",
+  "active": "e28eb76fdcc21b3c",
   "lastOpenFiles": [
-    "MERN/Tip.md",
     "MERN/React Components.md",
+    "MERN/Tip.md",
     "MERN/React 코드 구조화.md",
     "MERN/Sample API EndPoints.md",
-    "MERN/Planning Steps.md",
     "idea/데이트 장소 기록 플랫폼.md",
+    "MERN/Planning Steps.md",
     "MERN/images/Pasted image 20230110134417.png",
     "React-study/React의 UseState.md",
     "React-study/React에서의 inpaut 태그 사용법.md",
